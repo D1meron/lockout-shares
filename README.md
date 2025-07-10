@@ -39,5 +39,5 @@
 
 ![Shadowlands](https://wow.zamimg.com/images/icons/expansions/sl.png) Святилище Господства [N/H] (Девять) - <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_mawhorsespikes_purple.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=186656/sanctum-gloomchargers-reins" target="_blank">Темный скакун из Святилища</a>
 
-![Dragonflight](https://wow.zamimg.com/images/icons/expansions/df.png) Рассвет бесконечности [M] (Хроно-Лорд Деяс) - <img src="https://wow.zamimg.com/images/wow/icons/large/spell_tailor_mountspeedup01.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=208216/reins-of-the-quantum-courser#contains" target="_blank">Поводья квантового скакуна</a>
+![Dragonflight](https://wow.zamimg.com/images/icons/expansions/df.png) Рассвет бесконечности [M] (Хроно-Лорд Дейос) - <img src="https://wow.zamimg.com/images/wow/icons/large/spell_tailor_mountspeedup01.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=208216/reins-of-the-quantum-courser#contains" target="_blank">Поводья квантового скакуна</a>
 
