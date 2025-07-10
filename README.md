@@ -1,32 +1,20 @@
-# Yrni Lockout Shares
 
-Hi, I'm [Yrna](https://worldofwarcraft.blizzard.com/en-us/character/eu/antonidas/Yrna) and I'm sharing some raid & dungeon lockouts in World of Warcraft retail, allowing you to skip directly to the boss who drops the mount or transmog item!
+## Инструкция
 
-## Instructions
+Встаньте перед инстом и отправьте мне нижеприведенное сообщение из окна внутриигрового чата:
 
-Stand directly outside the instance you want to skip, and send me the below message from the in-game chat window:
+`/w Inférnø-TarrenMill +`
 
-`/w Yrni-Antonidas !sharing`
+Примите инвайт и проверьте групповой чат.
 
-Accept my group invite, then go inside the instance.
+Чтобы выбрать сложность напишите 10/25 и N/H соответственно, сложность подземелий по умолчанию установлена на Эпохальную
 
-Whisper me `+` if you are in, or whisper me `++` if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
+## "Игрок не найден"
 
-### **Commands**  
-- For Normal, type `!normal` or `!nhc`. (Default Setting) 
-- For Heroic, type `!heroic` or `!hc` in party chat or whisper.  
-- Once inside the instance, you have type `+` to notify me you're done, so I can assist others (I’ll leave the group automatically after 30 seconds).  
-- Or If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
-<br><br>
-## "No player named Yrni-Antonidas is currently online."
-
-Join the in-game community to work around this. The current invite code is always in my status posts on Discord and here: `74rRqa3tNdp`
+Присоединяйтесь к игровому сообществу, чтобы решить эту проблему. Актуальный инвайт-код всегда можно найти в моём статусе в Discord и здесь: `qgVx22osVm7`
 <br><br>
 
-## **Quality of life Macro**
-`/run local t="Yrni-Antonidas"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`
 
-This macro will automatically whisper `!sharing` if you're not in a group with me or will whisper `+` to free me up.
 
 ## <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Supported Instances / Raids** 
 
