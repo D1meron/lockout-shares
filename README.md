@@ -26,7 +26,7 @@
 
 ## <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Поддерживаемые подземелья / Рейды** 
 
-![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ульдуар [N] (Йогг-Сарон) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Mimiron's Head</a>
+![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ульдуар [N] (Йогг-Сарон) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Голова Мимирона</a>
 
 ![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Анторус [N/H] (Ф'aрг) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_felhound3_shadow_fire.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=152816/antoran-charhound" target="_blank">Огнедышащая гончая из Анторуса</a>
 
