@@ -30,6 +30,8 @@
 
 ![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ульдуар [N] (Йогг-Сарон) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Голова Мимирона</a>
 
+![Cataclysm](https://wow.zamimg.com/images/icons/expansions/cata.gif) Душа Дракона [H] (Alysrazor->Majordomo->Ragnaros) - <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_fireravengodmount.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=71665/flametalon-of-alysrazor" target="_blank">Flametalon of Alysrazor</a>, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_orb_05.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=69224/smoldering-egg-of-millagazor" target="_blank">Smoldering Egg of Millagazor</a>
+
 ![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Анторус [N/H] (Ф'aрг) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_felhound3_shadow_fire.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=152816/antoran-charhound" target="_blank">Огнедышащая гончая из Анторуса</a>
 
 ![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Возвращение в каражан [M] (Ловчий аттумен) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_skeletalwarhorse_black.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=142236/midnights-eternal-reins#dropped-by" target="_blank">Полночь</a>  
