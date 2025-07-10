@@ -30,7 +30,7 @@
 
 ![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ульдуар [N] (Йогг-Сарон) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Голова Мимирона</a>
 
-![Cataclysm](https://wow.zamimg.com/images/icons/expansions/cata.gif) Душа Дракона [H] (Alysrazor->Majordomo->Ragnaros) - <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_fireravengodmount.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=71665/flametalon-of-alysrazor" target="_blank">Flametalon of Alysrazor</a>, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_orb_05.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=69224/smoldering-egg-of-millagazor" target="_blank">Smoldering Egg of Millagazor</a>
+![Cataclysm](https://wow.zamimg.com/images/icons/expansions/cata.gif) Душа Дракона [H] (Ультраксион->Смертокрыл) - <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_drake_twilight.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=78919/experiment-12-b" target="_blank">Эксперимент 12-Б</a>, <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_drake_red.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=77067/reins-of-the-blazing-drake" target="_blank">Пылающий дракон</a>, <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_drake_red.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=77069/life-binders-handmaiden" target="_blank">Служанка Хранительницы жизни</a>
 
 ![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Анторус [N/H] (Ф'aрг) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_felhound3_shadow_fire.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=152816/antoran-charhound" target="_blank">Огнедышащая гончая из Анторуса</a>
 
@@ -42,7 +42,7 @@
 
   *Подсказка: Пробегите вперёд до развилки и воспользуйтесь телепортом.*
 
-![Battle for Azeroth](https://wow.zamimg.com/images/icons/expansions/bfa.png) Битва за Дазар'Алор [N/H] (Главный механик Меггакрут) - <img src="https://wow.zamimg.com/images/wow/icons/large/achievement_dungeon_coinoperatedcrowdpummeler.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=166518/g-m-o-d" target="_blank">G.M.O.D</a> <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Только для альянса
+![Battle for Azeroth](https://wow.zamimg.com/images/icons/expansions/bfa.png) Битва за Дазар'Алор [N/H] (Главный механик Меггакрут) - <img src="https://wow.zamimg.com/images/wow/icons/large/achievement_dungeon_coinoperatedcrowdpummeler.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=166518/g-m-o-d" target="_blank">ГМЖС</a> <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Только для альянса
 
 ![Shadowlands](https://wow.zamimg.com/images/icons/expansions/sl.png) Смертельная тризна [M] (Налтор Криомант) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_brokermount_dark.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=186638/cartel-masters-gearglider" target="_blank">Костезубка</a>
 
