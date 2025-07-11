@@ -52,7 +52,6 @@
 
 ![Battle for Azeroth](https://wow.zamimg.com/images/icons/expansions/bfa.png) Битва за Дазар'Алор [N/H] (Главный механик Меггакрут) - <img src="https://wow.zamimg.com/images/wow/icons/large/achievement_dungeon_coinoperatedcrowdpummeler.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=166518/g-m-o-d" target="_blank">ГМЖС</a> <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Только для альянса
 
-![Shadowlands](https://wow.zamimg.com/images/icons/expansions/sl.png) Смертельная тризна [M] (Налтор Криомант) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_maldraxxusflyermount_red.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=186638/cartel-masters-gearglider" target="_blank">Костезубка</a>
 
 ![Shadowlands](https://wow.zamimg.com/images/icons/expansions/sl.png) Тайный рынок Тазавеш [M] (Со'Лея) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_brokermount_dark.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=186638/cartel-masters-gearglider" target="_blank">Техноглайдер главы картеля</a>
 
